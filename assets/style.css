@@ -101,7 +101,7 @@ margin-top:15px;
 	justify-content: flex-start
 }
 
- .tab-item,.tab, .tab-list {
+ .tab-item,.tab,.tab-list {
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -132,8 +132,7 @@ margin-top:15px;
 .tab:before {
 	content: "";
 	display: inline-block;
-	width: 16px;
-	height: 16px;
+	
 	background-size: contain;
 	background-position: 50%;
 	background-repeat: no-repeat
