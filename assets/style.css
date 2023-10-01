@@ -122,7 +122,9 @@ margin-top:15px;
 	line-height: 20px;
 	margin-right: 10px
 }
- 
+ .tab .text {
+	margin-left: 0px
+}
  .tab-item .text {
 	margin-left: 6px
 }
