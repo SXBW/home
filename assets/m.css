@@ -348,7 +348,7 @@ input::-ms-reveal {
 }
 
 a {
-	color: #f55d54;
+	/*color: #f55d54;*/
 	background: 0 0;
 	text-decoration: none;
 	outline: 0;
